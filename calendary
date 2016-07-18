@@ -1,0 +1,5 @@
+CREATE TABLE Datos
+(
+Formador varchar(20),
+Sala varchar(10)
+);
